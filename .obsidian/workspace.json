@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "12a1983cb1a0441a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e45c2d45674a511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eae12f3aa08503e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专业/操作系统/S081.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9383048579765a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac9b996474f6854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6896d9f095c15a14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f2bb92676086336",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a15db6e73ff3337",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b40becd65f628308",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4283248fea434df",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e9080c2a73f00c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a7b98989f4bebc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "专业/操作系统/S081.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "413195d76928e1ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "专业/操作系统/S081.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6ab39a7fbcb2e74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5431f81c14f3198",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "专业/操作系统/S081.md"
+              }
+            }
+          },
+          {
+            "id": "5f25a6228b7fec84",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "0eae12f3aa08503e",
+  "lastOpenFiles": [
+    "README.md",
+    "专业/算法/黑板上的算法课.md",
+    "专业/操作系统/S081.md",
+    "T2024",
+    "专业/算法/每日一题.md",
+    "毕业设计.md",
+    "考研规划.md",
+    "LICENSE",
+    "T2024/LICENSE",
+    "专业/数据库",
+    "专业/计算机组成原理",
+    "专业/计算机网络",
+    "专业/操作系统",
+    "专业/算法/未命名.md",
+    "数学/高等数学.md",
+    "Pasted image 20240105155131.png",
+    "Pasted image 20240105154120.png",
+    "Pasted image 20240105153623.png",
+    "数学/ReadMe.md",
+    "未命名.canvas",
+    "英语/ReadMe.md",
+    "政治/ReaMe.md",
+    "未命名.md",
+    "未命名 1.md",
+    "2023-02-03.md"
+  ]
+}
